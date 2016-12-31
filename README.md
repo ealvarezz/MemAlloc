@@ -1,0 +1,1 @@
+sfutil.o wasn't written by me. This object file was given to me as a starting point for this project. Most of my contribution comes from the sfmm.c file that contains the implementaiton for malloc, realloc and free.
